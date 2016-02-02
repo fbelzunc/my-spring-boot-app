@@ -3,11 +3,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.example</groupId>
-    <artifactId>my-spring-boot-app</artifactId>
+    <artifactId>my-spring-boot-app-example</artifactId>
     <version>0.0.9-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>my-spring-boot-app</name>
+    <name>my-spring-boot-app-example</name>
     <description>Demo project for Spring Boot</description>
 
     <parent>
